@@ -21,9 +21,8 @@ Actualmente desarrollo proyectos reales que combinan programación web, lógica 
 
 ## Contact me
 
-‎<br>
+‎
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]
+![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")
 
-<br>
 
