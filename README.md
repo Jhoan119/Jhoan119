@@ -1,7 +1,7 @@
 ## Hi my names is Jhoan 👋
 
   <p>
-    Técnico en Programación de Software | Enfocado en **Desarrollo Web de Alto Rendimiento** 
+    Tegnologo en Programación de Software en formacion | Enfocado en **Desarrollo Web de Alto Rendimiento** 
   </p>
 </div>
 
