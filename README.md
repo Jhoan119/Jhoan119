@@ -10,9 +10,7 @@ Me motiva construir soluciones reales, no solo escribir código.
 Por eso exploro la Inteligencia Artificial aplicada tanto al desarrollo web como a proyectos con impacto real, diseñados para automatizar procesos, simplificar tareas, resolver problemas del día a día y mejorar la vida de las personas mediante la tecnología.
 Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.
 </div>
-
 <br><br>
-
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
