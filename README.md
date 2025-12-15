@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Jhoan  
-🚀 Software Development Student | High-Performance Web Development
+🚀 Software Development Student | High-Performance Web Development <br>
 Soy un estudiante de programación con formación técnica y tecnológica, enfocado en el desarrollo de aplicaciones web modernas. Me gusta escribir código limpio, resolver problemas y convertir ideas en proyectos funcionales.
 Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend y lógica de programación, mientras construyo proyectos reales que me permitan crecer como desarrollador.
 
