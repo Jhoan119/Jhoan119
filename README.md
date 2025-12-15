@@ -4,11 +4,12 @@
 
 <div>
     <div align=center>
-        Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el Sena.
-    <br>Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales.
-    <br>Me motiva construir soluciones reales, no solo escribir código.
-    <br>Por eso exploro la Inteligencia Artificial aplicada tanto al desarrollo web como a proyectos con impacto real, diseñados para automatizar procesos, simplificar tareas, resolver problemas del día a día     <br>y mejorar la vida de las personas mediante la tecnología.
-    Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.<br>
+Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el Sena.
+Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales.
+Me motiva construir soluciones reales, no solo escribir código.
+Por eso exploro la Inteligencia Artificial aplicada tanto al desarrollo web como a proyectos con impacto real, diseñados para automatizar procesos, simplificar tareas, resolver problemas del día a día y mejorar la vida de las personas mediante la tecnología.
+Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.
+
 </div>
 
 
