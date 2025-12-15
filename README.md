@@ -1,5 +1,3 @@
-
-
 <h2 align="center"> Hi 👋, I'm Jhoan</h2>  
 <p align="center">
 🚀 <b>Software Development Student | High-Performance Web Development <br></b>
@@ -35,6 +33,8 @@ Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transfo
 
 ## Contact me
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)‎
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)‎
 
 
