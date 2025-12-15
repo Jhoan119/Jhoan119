@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my names is Jhoan 👋
 
   <p>
     Técnico en Programación de Software | Enfocado en **Desarrollo Web de Alto Rendimiento** 
