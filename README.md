@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
-  <h1> Jhoan Noscue | TEGNOLOGO EN PROGRAMACION </h1>
-  
-  <img src="BannerCris2.png" alt="Banner: Un desarrollador de software" width="100%" />
-
   <p>
     Técnico en Programación de Software | Enfocado en **Desarrollo Web de Alto Rendimiento** 
   </p>
