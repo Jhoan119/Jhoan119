@@ -8,7 +8,7 @@
     <br>Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales.
     <br>Me motiva construir soluciones reales, no solo escribir código.
     <br>Por eso exploro la Inteligencia Artificial aplicada tanto al desarrollo web como a proyectos con impacto real, diseñados para automatizar procesos, simplificar tareas, resolver problemas del día a día     <br>y mejorar la vida de las personas mediante la tecnología.
-    <br>Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.
+    Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.<br>
 </div>
 
 
