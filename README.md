@@ -1,12 +1,13 @@
 ## Hi 👋, I'm Jhoan  
 🚀 Software Development Student | High-Performance Web Development <br>
 
-Soy estudiante de Tecnólogo en Programación, con formación técnica y un enfoque autodidacta.
-Me especializo en desarrollo web frontend, creando interfaces modernas, responsivas y funcionales, aplicando lógica de programación y buenas prácticas.
+Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación.
+Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales.
 
-Además, tengo un fuerte interés en la Inteligencia Artificial, explorando cómo integrarla en aplicaciones web para automatizar procesos, mejorar la experiencia del usuario y crear soluciones más inteligentes.
+Me motiva construir soluciones reales, no solo escribir código.
+Por eso exploro la Inteligencia Artificial aplicada al desarrollo web, buscando automatizar procesos, mejorar la experiencia del usuario y agregar valor real a cada proyecto.
 
-Actualmente desarrollo proyectos reales que combinan programación web, lógica y fundamentos de IA, fortaleciendo mi perfil como desarrollador en crecimiento.
+Trabajo con mentalidad de mejora continua: aprender, aplicar, iterar y optimizar.
 
 <div>
     <div align=center>
