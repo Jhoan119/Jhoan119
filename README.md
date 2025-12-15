@@ -18,8 +18,6 @@
 
 ## Contact me
 
-[![Email](https://img.shields.io/badge/Email-rojafierro1000%40gmail.com-red?style=flat&logo=gmail)](mailto:rojafierro1000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Rojas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevin-andres-rojas-fierro-281aa0241/)
-[![GitHub](https://img.shields.io/badge/GitHub-kevinroja-black?style=flat&logo=github)](https://github.com/kevinroja)
+<a href="3106arias@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 
