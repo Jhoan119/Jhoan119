@@ -3,12 +3,13 @@
 🚀 <b>Software Development Student | High-Performance Web Development <br></b>
 
 <div align="center">
-Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación.
+Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el Sena.
 Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales.
-
 Me motiva construir soluciones reales, no solo escribir código.
-Por eso exploro la Inteligencia Artificial aplicada al desarrollo web, buscando automatizar procesos, mejorar la experiencia del usuario y agregar valor real a cada proyecto.
-Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento.
+Por eso exploro la Inteligencia Artificial no solo aplicada al desarrollo web, sino también a proyectos con impacto, orientados a facilitar tareas, resolver problemas cotidianos y ayudar a las personas mediante la tecnología.
+
+Enfoco la IA como una herramienta para automatizar procesos, mejorar la experiencia del usuario y generar valor práctico y accesible.
+Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, convirtiendo cada proyecto en una oportunidad de crecimiento y mejora continua.
 </div>
 
 <div>
