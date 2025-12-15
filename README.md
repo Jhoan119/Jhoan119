@@ -1,11 +1,6 @@
 ## Hi 👋, I'm Jhoan  
 🚀 Software Development Student | High-Performance Web Development
 
-  <p>
-    Tegnologo en Programación de Software en formacion | Enfocado en **Desarrollo Web de Alto Rendimiento** 
-  </p>
-</div>
-
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
