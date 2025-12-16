@@ -4,10 +4,11 @@
 
 <div>
     <div align=center>
-Soy desarrollador en formación con base técnica y enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el SENA. Me especializo en desarrollo web frontend, combinando diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales. Me motiva construir soluciones reales, no solo escribir código; por eso exploro la Inteligencia Artificial aplicada tanto al desarrollo web como a proyectos con impacto real, orientados a automatizar procesos, simplificar tareas, resolver problemas cotidianos y mejorar la vida de las personas mediante la tecnología. Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento continuo.
-
+Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el Sena. Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales. Me motiva construir soluciones reales, no solo escribir código. Por eso exploro la Inteligencia Artificial aplicada al desarrollo web, buscando automatizar procesos, mejorar la experiencia del usuario y agregar valor real a cada proyecto. Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento.
 </div>
+    
 <br><br>
+
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
