@@ -4,7 +4,9 @@
 
 <div>
     <div align="center">
-Soy desarrollador en formación con base técnica y un enfoque autodidacta, actualmente cursando un Tecnólogo en Programación en el Sena. Me especializo en desarrollo web frontend, donde combino diseño, lógica y código limpio para crear experiencias web modernas, responsivas y funcionales. Me motiva construir soluciones reales, no solo escribir código. Por eso exploro la Inteligencia Artificial aplicada al desarrollo web, buscando automatizar procesos, mejorar la experiencia del usuario y agregar valor real a cada proyecto. Trabajo con una mentalidad clara: aprender, aplicar, iterar y optimizar, transformando cada proyecto en una oportunidad de crecimiento.
+    Tegnólogo en Analisis y Desarrollo de Software en formación, con base tecnica y un efoque autodidacta. Poseo conocimientos en HTML, CSS, JavaScript para el              desarrollo de soluciones web, así como en Python y en el manejo de base de datos MySQL. Tambien me gusta explorar la Vision Artificial como parte
+    de la Inteligencia Artificial, usando el procesamiento de imágenes y el análisis visual para automatizar tareas, reconocer patrones y crear soluciones 
+    tecnológicas para problemas reales.
 </div>
 <br><br>
 
