@@ -8,9 +8,7 @@ Tecnólogo en <b>Análisis y Desarrollo de Software</b> en formación, con base 
 Poseo conocimientos en <b>HTML, CSS y JavaScript</b>, así como en <b>Python</b> y <b>bases de datos MySQL</b>.
 Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el procesamiento y análisis de imágenes para automatizar tareas y resolver problemas reales.
 Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</b>, con capacidad para trabajar en equipo y alta disposición para aprender de forma continua.
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </div>
-
 
 <div align="center">
 
