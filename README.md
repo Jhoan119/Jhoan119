@@ -5,9 +5,7 @@
 <div align="center">
 Tecnólogo en <b>Análisis y Desarrollo de Software</b> en formación, con base técnica y enfoque autodidacta. 
 Poseo conocimientos en <b>HTML, CSS y JavaScript</b>, así como en <b>Python</b> y <b>bases de datos MySQL</b>.
-<br><br>
 Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el procesamiento y análisis de imágenes para automatizar tareas y resolver problemas reales.
-<br><br>
 Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</b>, con capacidad para trabajar en equipo, alta disposición para aprender de forma continua y enfocado en adquirir experiencia práctica en entornos laborales reales.
 </div>
 
