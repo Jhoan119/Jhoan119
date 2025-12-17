@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, soy Jhoan 👋</h1>  
+<h1 align="center"> Hi,👋 l'm Jhoan Stiven Noscue Arias</h1>  
 <p align="center">
 🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
