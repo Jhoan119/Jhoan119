@@ -18,10 +18,11 @@ Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</
 
 ## Contact me
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/jhoan-noscue-006a50358/")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/jhoan-noscue-006a50358/")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">‎
 
+<!--[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)-->
 
