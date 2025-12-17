@@ -20,7 +20,7 @@ Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhoan-noscue-006a50358/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karem_Aranda-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jhoan Noscue-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="3106arias@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-3106arias@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
