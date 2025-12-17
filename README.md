@@ -2,7 +2,7 @@
 <p align="center">
 🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
-<div>
+<div aligh="center">
 Tecnólogo en <b>Análisis y Desarrollo de Software</b> en formación, con base técnica y enfoque autodidacta. 
 Poseo conocimientos en <b>HTML, CSS y JavaScript</b>, así como en <b>Python</b> y <b>bases de datos MySQL</b>.
 Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el procesamiento y análisis de imágenes para automatizar tareas y resolver problemas reales.
