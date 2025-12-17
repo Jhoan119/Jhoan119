@@ -1,4 +1,4 @@
-<h2 align="center"> Hola, soy Jhoan 👋</h2>  
+<h1> align="center"> Hola, soy Jhoan 👋</h1>  
 <p align="center">
 🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
