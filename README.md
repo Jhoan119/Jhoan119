@@ -4,8 +4,7 @@
 
 <div>
     <div align="center">
-    Tegnólogo en Analisis y Desarrollo de Software en formación, con base tecnica y un efoque autodidacta. Poseo conocimientos en HTML, CSS, JavaScript, así como en         Python y base de datos MySQL. Tambien me gusta explorar la Vision Artificial como parte de la Inteligencia Artificial, usando el procesamiento de imágenes y el          análisis visual para automatizar tareas, reconocer patrones y crear soluciones 
-    tecnológicas para problemas reales.
+    Tegnólogo en Analisis y Desarrollo de Software en formación, con base tecnica y un efoque autodidacta. Poseo conocimientos en HTML, CSS, JavaScript, así como en         Python y base de datos MySQL. Además, me gusta explorar la Vision Artificial como parte de la Inteligencia Artificial, utilizando el procesamiento de imágenes y el      análisis visual para automatizar tareas, reconocer patrones y crear soluciones tecnológicas orientadas a problemas reales.
 </div>
 <br><br>
 
