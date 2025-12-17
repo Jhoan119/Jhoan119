@@ -10,6 +10,12 @@ Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el 
 Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</b>, con capacidad para trabajar en equipo y alta disposición para aprender de forma continua.
 </div>
 
+
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+
+
+
 <div align="center">
 
 ## 💻 Programs and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
