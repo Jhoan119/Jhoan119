@@ -1,4 +1,4 @@
-<h2 align="center"> Hola, soy Jhoan<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2></h2>  
+<h2 align="center"> Hola, soy Jhoan 👋</h2>  
 <p align="center">
 🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
