@@ -11,6 +11,7 @@ Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el 
 Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</b>, con capacidad para trabajar en equipo, alta disposición para aprender de forma continua y enfocado en adquirir experiencia práctica en entornos laborales reales.
 </div>
 
+<div align="center">
 
 ## 💻 Programs and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -21,6 +22,8 @@ Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)‎
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">‎
 
 
