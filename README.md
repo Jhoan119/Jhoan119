@@ -1,4 +1,7 @@
 <h1 align="center"> Hi,👋 l'm Jhoan Stiven Noscue Arias</h1>  
+
+<hr style="border: 1px solid #FADADD;">
+
 <p align="center">
 🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
