@@ -18,11 +18,16 @@ Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</
 
 ## Contact me
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")]()  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/jhoan-noscue-006a50358/")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
 
 <div align="center">‎
 
-<!--[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)-->
+
 
