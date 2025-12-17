@@ -2,12 +2,15 @@
 <p align="center">
 🚀 <b>Software Development Student | High-Performance Web Development <br></b>
 
-<div>
-    <div align="center">
-    Tecgnólogo en Análisis y Desarrollo de Software en formación, con base técnica y un enfoque autodidacta. Poseo conocimientos en HTML, CSS, JavaScript, así como en         Python y bases de datos MySQL. Además, me gusta explorar la Visión Artificial aplicada, utilizando el procesamiento de imágenes y el análisis visual para automatizar      tareas, reconocer patrones y crear soluciones tecnológicas orientadas a problemas reales.
-    Me caracterizo por ser una persona responsable, disciplinada y comprometida, con capacidad para trabajar en equipo, alta dispocicion para aprender de forma              continua y enfocado en adquirir experiencia práctica en entornos laborales reales 
-</div>
+<div align="center">
+Tecnólogo en <b>Análisis y Desarrollo de Software</b> en formación, con base técnica y enfoque autodidacta. 
+Poseo conocimientos en <b>HTML, CSS y JavaScript</b>, así como en <b>Python</b> y <b>bases de datos MySQL</b>.
 <br><br>
+Además, me gusta explorar la <b>Visión Artificial aplicada</b>, utilizando el procesamiento y análisis de imágenes para automatizar tareas y resolver problemas reales.
+<br><br>
+Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</b>, con capacidad para trabajar en equipo, alta disposición para aprender de forma continua y enfocado en adquirir experiencia práctica en entornos laborales reales.
+</div>
+
 
 ## 💻 Programs and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
