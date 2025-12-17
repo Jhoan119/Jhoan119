@@ -1,6 +1,6 @@
 <h2 align="center"> Hola, soy Jhoan 👋</h2>  
 <p align="center">
-🚀 <b>Software Development Student | High-Performance Web Development <br></b>
+🚀 <b>Software developer in training | 📊 Web Development | 🐍 Python <br></b>
 
 <div align="center">
 Tecnólogo en <b>Análisis y Desarrollo de Software</b> en formación, con base técnica y enfoque autodidacta. 
