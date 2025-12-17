@@ -17,7 +17,16 @@ Me caracterizo por ser una persona <b>responsable, disciplinada y comprometida</
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Contact me
-[![@jhoan_086](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhoan_086")]()  [![https://www.linkedin.com/in/jhoan-noscue-006a50358/](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/jhoan-noscue-006a50358/")](https://www.linkedin.com/in/jhoan-noscue-006a50358/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "3106arias@gmail.com")](3106arias@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karem-aranda-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karem_Aranda-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:karem.aranda23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-karem.aranda23@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <!--GIT SERPIENTE-->
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
